@@ -9,7 +9,9 @@ redirect_from:
 ---
 Short Bio
 ------
- I am studying for my PhD in Southern University of Science and Technology, advised by [Prof. Yi Wang](https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1). I got my Bachelors from China University of Petroleum, advised by [Prof. Tao Song](https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm). I was born and raised in Linyi, Shandong Province, China.<br>
+ I am studying for my PhD in Southern University of Science and Technology, advised by [Prof. Yi Wang](https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1).<br>
+ I got my Bachelors from China University of Petroleum, advised by [Prof. Tao Song](https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm).<br>
+ I was born and raised in Linyi, Shandong Province, China.<br>
  **E-mail:** junyuxue[AT]126.com
 
 Research
