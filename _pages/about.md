@@ -13,7 +13,7 @@ I am an En.D. candidate at the Department of Computer Science and Engineering, S
 
 <!-- Welcome to my [Knowledge Database](https://www.yuque.com/junry). I will share some life feelings, knowledge path there. -->
 
-E-mail: xuejy2024@mail.sustech.edu.cn
+E-mail: xuejy2024@mail.sustech.edu.cn <br>
 If you are interested in my experience or work, please contact me via it.
 
 
