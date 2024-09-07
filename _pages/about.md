@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Junyu's Homepage"
+title: "Junyu Xue's Academic Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,16 +9,41 @@ redirect_from:
 ---
 Short Bio
 ------
- I am studying for my PhD in Southern University of Science and Technology, advised by [Prof. Yi Wang](https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1).<br>
- I got my Bachelors from China University of Petroleum, advised by [Prof. Tao Song](https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm).<br>
- I was born and raised in Linyi, Shandong Province, China.<br>
- **E-mail:** junyuxue[AT]126.com
+I am an En.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Peng Cheng Laboratory), under the supervision of [Prof. Yi Wang](https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1). Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by [Prof. Tao Song](https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm). I was born and raised in Linyi, Shandong Province, China.<br>
+
+<!-- Welcome to my [Knowledge Database](https://www.yuque.com/junry). I will share some life feelings, knowledge path there. -->
+
+E-mail: xuejy2024@mail.sustech.edu.cn
+If you are interested in my experience or work, please contact me via it.
+
 
 Research
 ------
- AI For Network, AI For Science(Marine Science), AIoT ..<br>
+My research interests include Computer Network, Internet of Things, Machine Learning and AI For Science.
+
+Honors & Awards
+------
+- <div style="display: flex; justify-content: space-between;">
+    <span>Outstanding Graduate of Shandong Province, China.</span>
+    <span>Jan. 2024</span>
+  </div>
+- <div style="display: flex; justify-content: space-between;">
+    <span>Bachelor of Engineering with Honors (5%), China University of Petroleum (East China).</span>
+    <span>Jun. 2024</span>
+  </div>
+- <div style="display: flex; justify-content: space-between;">
+    <span>Bachelor of Engineering with Honors, China University of Petroleum (East China).</span>
+    <span>Jun. 2024</span>
+  </div>
+- <div style="display: flex; justify-content: space-between;">
+    <span>Bachelor of Engineering with Honors, China University of Petroleum (East China).</span>
+    <span>Jun. 2024</span>
+  </div>
+- <div style="display: flex; justify-content: space-between;">
+    <span>First Award in Shandong Province, China Undergraduate Mathematical Contest in Modeling (CUMCM).</span>
+    <span>Jun. 2024</span>
+  </div>
 
 News
 ------
-- Our paper 'Hello World' is accepted by 'Love'.
-- Our paper 'Graduate!' is accepted by 'Peace'.
+- One paper was accepted by IEEE SustainCom 2024. 

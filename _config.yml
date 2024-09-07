@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junyu Xue / HomePage"
+title                    : "Junyu Xue"
 title_separator          : "-"
 name                     : &name "Junyu Xue"
 description              : &description "personal description"
