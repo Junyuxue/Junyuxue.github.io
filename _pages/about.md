@@ -23,27 +23,30 @@ My research interests include Computer Network, Internet of Things, Machine Lear
 
 Honors & Awards
 ------
-- <div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
     <span>Outstanding Graduate of Shandong Province, China.</span>
     <span>Jan. 2024</span>
   </div>
-- <div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
     <span>Bachelor of Engineering with Honors (5%), China University of Petroleum (East China).</span>
     <span>Jun. 2024</span>
   </div>
-- <div style="display: flex; justify-content: space-between;">
-    <span>Bachelor of Engineering with Honors, China University of Petroleum (East China).</span>
-    <span>Jun. 2024</span>
+<div style="display: flex; justify-content: space-between;">
+    <span>Xiaomi Grand Scholarship. <i>(Awarded to only 4 undergraduate students in the entire university, ¥20000)</i></span>
+    <span>Nov. 2023</span>
   </div>
-- <div style="display: flex; justify-content: space-between;">
-    <span>Bachelor of Engineering with Honors, China University of Petroleum (East China).</span>
-    <span>Jun. 2024</span>
+<div style="display: flex; justify-content: space-between;">
+    <span>Qingdao Outstanding University Student (Top 1000).</span>
+    <span>May. 2023</span>
   </div>
-- <div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
     <span>First Award in Shandong Province, China Undergraduate Mathematical Contest in Modeling (CUMCM).</span>
     <span>Jun. 2024</span>
   </div>
 
 News
 ------
-- One paper was accepted by IEEE SustainCom 2024. 
+- <div style="display: flex; justify-content: space-between;">
+    <span>One paper was accepted by IEEE SustainCom 2024. </span>
+    <span>Sep. 2024</span>
+  </div>
