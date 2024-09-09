@@ -31,10 +31,18 @@ Honors & Awards
     <span>Bachelor of Engineering with Honors (5%), China University of Petroleum (East China).</span>
     <span>Jun. 2024</span>
   </div>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: column;">
+    <div style="display: flex; justify-content: space-between;">
+        <span>Xiaomi Grand Scholarship. <em>(Awarded to only 4 undergraduate students in the entire university, ¥20000)</em></span>
+    </div>
+    <div style="text-align: right;">
+        <span>Nov. 2023</span>
+    </div>
+</div>
+<!-- <div style="display: flex; justify-content: space-between;">
     <span>Xiaomi Grand Scholarship. <i>(Awarded to only 4 undergraduate students in the entire university, ¥20000)</i></span>
     <span>Nov. 2023</span>
-  </div>
+  </div> -->
 <div style="display: flex; justify-content: space-between;">
     <span>Qingdao Outstanding University Student (Top 1000).</span>
     <span>May. 2023</span>
