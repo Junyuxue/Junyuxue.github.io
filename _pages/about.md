@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+</style>
 Short Bio
 ------
 I am an En.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Peng Cheng Laboratory), under the supervision of [Prof. Yi Wang](https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1). Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by [Prof. Tao Song](https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm). I was born and raised in Linyi, Shandong Province, China.<br>
