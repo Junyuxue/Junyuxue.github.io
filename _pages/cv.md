@@ -11,8 +11,8 @@ redirect_from:
 ------
 Education
 ------
-* B.S. in Internet of Things Engineering, China University of Petroleum(East China), 2024
-* Ph.D in Electric Information, Southern University of Science and Technology, 2029(expected)
+* B.E. in Internet of Things Engineering, China University of Petroleum(East China), 2024
+* En.D in Electric Information, Southern University of Science and Technology, 2029(expected)
 
 Work experience
 ------
