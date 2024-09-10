@@ -11,12 +11,6 @@ redirect_from:
 body {
     font-family: 'Times New Roman', Times, serif;
 }
-.justify-content {
-    text-align: justify;
-}
-.date {
-    text-align: right;
-}
 </style>
 Short Bio
 ------
@@ -36,13 +30,17 @@ Honors & Awards
 ------
 - Outstanding Graduate of Shandong Province, China. (Jan. 2024)
 - Bachelor of Engineering with Honors (5%), China University of Petroleum (East China). (Jun. 2024)
-- Xiaomi Grand Scholarship. (Awarded to only 4 undergraduate students in the entire university, ¥20000). (Nov. 2023)
+- Xiaomi Grand Scholarship. *(Awarded to only 4 undergraduate students in the entire university, ¥20000)*. (Nov. 2023)
 - Qingdao Outstanding University Student (Top 1000). (May. 2023)
-- First Award in Shandong Province, China Undergraduate Mathematical Contest in Modeling (CUMCM). (Nov. 2023)
+- Second Prize, China Collegiate Computing Contest-Network Technology Challenge. (Sep. 2023)
+- Third Prize, The 12th "China Software Cup" College Student Software Design Competition. (Aug. 2023)
+- First Prize in Shandong Province, China Undergraduate Mathematical Contest in Modeling (CUMCM). (Nov. 2022)
+- First Prize in the Eastern Division, CCF Big Data & Computing Intelligence Contest. (Nov. 2022)
 
 News
 ------
-- <div style="display: flex; justify-content: space-between;">
-    <span>One paper was accepted by [IEEE SustainCom 2024](). </span>
+- One paper was accepted by [IEEE SustainCom 2024](). (Sep. 2024)
+<!-- - <div style="display: flex; justify-content: space-between;">
+    <span>One paper was accepted by IEEE SustainCom 2024. </span>
     <span>Sep. 2024</span>
-  </div>
+  </div> -->
