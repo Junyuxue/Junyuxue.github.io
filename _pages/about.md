@@ -11,6 +11,12 @@ redirect_from:
 body {
     font-family: 'Times New Roman', Times, serif;
 }
+.justify-content {
+    text-align: justify;
+}
+.date {
+    text-align: right;
+}
 </style>
 Short Bio
 ------
@@ -37,6 +43,6 @@ Honors & Awards
 News
 ------
 - <div style="display: flex; justify-content: space-between;">
-    <span>One paper was accepted by IEEE SustainCom 2024. </span>
+    <span>One paper was accepted by [IEEE SustainCom 2024](). </span>
     <span>Sep. 2024</span>
   </div>
