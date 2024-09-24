@@ -20,6 +20,7 @@ author_profile: true
 - Towards Real-World Deployment of NILM Systems: Challenges and Practices <br>
 **Junyu Xue**, Yu Zhang, Xudong Wang, Yi Wang, Guoming Tang <br>
 [arXiv September 23, 2024](http://arxiv.org/abs/2409.14821). <br>
+
 2023
 ------
 - Fast-DecoupledNet: An Improved Multi-branch Edge Enhanced Semantic Segmentation Network <br>
