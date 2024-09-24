@@ -11,13 +11,16 @@ redirect_from:
 body {
     font-family: 'Times New Roman', Times, serif;
 }
+.justified {
+        text-align: justify; /* 设置文本两端对齐 */
+    }
 </style>
 Short Bio
 ------
-I am an En.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Pengcheng Laboratory), under the supervision of [Prof. Yi Wang](https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1). Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by [Prof. Tao Song](https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm). I was born and raised in Linyi, Shandong Province, China.<br>
-
+<p class="justified">
+I am an En.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Pengcheng Laboratory), under the supervision of [Prof. Yi Wang](https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1). Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by [Prof. Tao Song](https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm). I was born and raised in Linyi, Shandong Province, China.
+</p>
 <!-- Welcome to my [Knowledge Database](https://www.yuque.com/junry). I will share some life feelings, knowledge path there. -->
-
 E-mail: xuejy2024@mail.sustech.edu.cn <br>
 If you are interested in my experience or work, please contact me via it.
 
@@ -39,7 +42,7 @@ Honors & Awards
 
 Teaching
 ------
-**2024, Teaching Assisitant, SUSTech**:
+**Teaching Assisitant in SUSTech**:
 - TA, CS111(UnderGraduate Course), C Program Design Basis, 2024 Fall
 
 News
