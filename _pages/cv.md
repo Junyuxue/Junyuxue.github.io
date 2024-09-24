@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-------
+Please access my CV (Chinese Version) from [here](http://junyuxue.github.io/files/JunyuXue-CV_for_Academic_Page-0924-Chinese.pdf).
+<!-- ------
 Education
 ------
 * B.E. in Internet of Things Engineering, China University of Petroleum(East China), 2024
@@ -44,4 +45,4 @@ Teaching
   
 Service and leadership
 ------
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
