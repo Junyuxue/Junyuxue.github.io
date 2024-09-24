@@ -18,7 +18,7 @@ body {
 Short Bio
 ------
 <div class="justified">
-I am an En.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Pengcheng Laboratory), under the supervision of <a href="https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1">Prof. Yi Wang</a>. Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by <a href="https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm">Prof. Tao Song</a>. I was born and raised in Linyi, Shandong Province, China.
+I am an En.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Pengcheng Laboratory), under the supervision of <a href="https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1">Prof. Yi Wang</a>. Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by <a href="https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm">Prof. Tao Song</a>. I was born and raised in Linyi, Shandong Province, China.<br>
 </div>
 <!-- Welcome to my [Knowledge Database](https://www.yuque.com/junry). I will share some life feelings, knowledge path there. -->
 E-mail: xuejy2024@mail.sustech.edu.cn <br>
@@ -35,7 +35,7 @@ Honors & Awards
 ------
 - Outstanding Graduate of Shandong Province, China. (Jan. 2024)
 - Bachelor of Engineering with Honors (5%), China University of Petroleum (East China). (Jun. 2024)
-- Xiaomi Grand Scholarship. *(Awarded to only 4 undergraduate students in the entire university, ¥20000)*. (Nov. 2023)
+- Xiaomi Grand Scholarship. **(Awarded to only 4 undergraduate students in the entire university, ¥20000)**. (Nov. 2023)
 - Qingdao Outstanding University Student (Top 1000). (May. 2023)
 - Second Prize, China Collegiate Computing Contest-Network Technology Challenge. (Sep. 2023)
 - Third Prize, The 12th "China Software Cup" College Student Software Design Competition. (Aug. 2023)
