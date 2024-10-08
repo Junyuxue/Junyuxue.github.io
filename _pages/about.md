@@ -56,4 +56,6 @@ News
     <span>Sep. 2024</span>
   </div> -->
 
-<a href="https://clustrmaps.com/site/1c1lq"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=lcdkuwhj1VKwpNzcHqUdf3UVwukJ9nr0K2fEVfRM6bE&cl=ffffff" /></a>
+<body>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lcdkuwhj1VKwpNzcHqUdf3UVwukJ9nr0K2fEVfRM6bE&cl=ffffff&w=a"></script>
+</body>
