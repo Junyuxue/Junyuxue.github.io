@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junyu Xue's Academic Page"
+title: "Junyu Xue @ SUSTech&PCL"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -55,3 +55,5 @@ News
     <span>One paper was accepted by IEEE SustainCom 2024. </span>
     <span>Sep. 2024</span>
   </div> -->
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lcdkuwhj1VKwpNzcHqUdf3UVwukJ9nr0K2fEVfRM6bE&cl=ffffff&w=a"></script>
