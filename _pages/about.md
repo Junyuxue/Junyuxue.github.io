@@ -45,8 +45,8 @@ Honors & Awards
 
 Teaching
 ------
-**Teaching Assisitant in SUSTech**:
-- TA, CS111(UnderGraduate Course), C Program Design Basis, 2024 Fall
+**Teaching Assistant in SUSTech**:
+    CS111- C Program Design Basis (With Prof. [Wenjin Wang](https://www.sustech.edu.cn/zh/faculties/wangwenjin.html); For Undergraduate Students, Fall, 2024)
 
 News
 ------
