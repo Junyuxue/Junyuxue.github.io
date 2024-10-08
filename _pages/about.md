@@ -36,7 +36,7 @@ Honors & Awards
 ------
 - Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China). (Jun. 2024)
 - Outstanding Graduate of Shandong Province, China. (Jan. 2024)
-- Xiaomi Grand Scholarship. **(Only 4 undergraduate students in UPC, 20000RMB)**. (Nov. 2023)
+- Xiaomi Grand Scholarship. **(Only 4 undergraduate students in UPC, 20000RMB)** (Nov. 2023)
 - Qingdao Outstanding University Student (Top 1000). (May. 2023)
 - Second Prize, China Collegiate Computing Contest-Network Technology Challenge. (Sep. 2023)
 - Third Prize, The 12th "China Software Cup" College Student Software Design Competition. (Aug. 2023)
@@ -45,7 +45,7 @@ Honors & Awards
 
 Teaching
 ------
-**Teaching Assistant in SUSTech**:<br>
+#### Teaching Assistant in SUSTech:<br>
     CS111- C Program Design Basis (With Prof. [Wenjin Wang](https://www.sustech.edu.cn/zh/faculties/wangwenjin.html); For Undergraduate Students, Fall, 2024)
 
 News
