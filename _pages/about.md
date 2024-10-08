@@ -56,6 +56,4 @@ News
     <span>Sep. 2024</span>
   </div> -->
 
-<body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lcdkuwhj1VKwpNzcHqUdf3UVwukJ9nr0K2fEVfRM6bE&cl=ffffff&w=a"></script>
-</body>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=lcdkuwhj1VKwpNzcHqUdf3UVwukJ9nr0K2fEVfRM6bE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
