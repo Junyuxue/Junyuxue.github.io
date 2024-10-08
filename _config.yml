@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junyu Xue"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Junyu Xue"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junry"
+  name             : "Junyu Xue(Junry)"
   avatar           : "profile.png"
   bio              : "Work hard, Self-restraint, Love"
   location         : "Location"
