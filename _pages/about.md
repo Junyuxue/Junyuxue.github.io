@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junyu Xue @ SUSTech&PCL"
+title: "Junyu Xue @ SUSTech & PCL"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
