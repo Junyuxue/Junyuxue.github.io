@@ -29,13 +29,17 @@ If you are interested in my experience or work, please contact me via it.
 Research
 ------
 <div class="justified">
-Keywords: Computer Networks, Data Center Network, Green Computing
+Keywords: Computer Networks, Data Center Network, Green Computing <br>
 My research interests include Computer Networks (especially Time-sensitive Network) and Internet of Things. I focus on the application of AI in these two areas, especially in data center network architecture and edge intelligence. I am also interested in the energy consumption in computing. <br>
 In addition to academic issues, I also pay attention to the practical application of various technologies in the real world. I am actively exploring the combination of academic and engineering (they should not be confused).
 </div>
 
 Honors & Awards
 ------
+<ul>
+<li>06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).</li>
+</ul>
+
 - 06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).
 - 01/2024, Outstanding Graduate of Shandong Province, China.
 - 11/2023, Xiaomi Grand Scholarship. **(Only 4 undergraduate students in UPC, 20000RMB)**
@@ -51,7 +55,7 @@ Teaching
 
 News
 ------
-- 10/2024, Our paper published on the IEEE SustainCom 2024 won the **Best Paper Award**. 
+- 10/2024, we won the Best Paper Award in IEEE SustainCom 2024.[[link]](http://junyuxue.github.io/files/Sustaincom24BestPaperAward.pdf)
 - 09/2024, One paper was accepted by IEEE SustainCom 2024.
 <!-- - <div style="display: flex; justify-content: space-between;">
     <span>One paper was accepted by IEEE SustainCom 2024. </span>
