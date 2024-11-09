@@ -29,27 +29,30 @@ If you are interested in my experience or work, please contact me via it.
 Research
 ------
 <div class="justified">
-My research interests include Computer Networks (especially Time-sensitive Network), Internet of Things and AI For Science. I also focus on the application of AI in the energy field, such as Non-Intrusive Load Monitoring (NILM). In addition to academic issues, I also pay attention to the practical application of various technologies in the real world. I am actively exploring the combination of academic and engineering (they should not be confused).
+Keywords: Computer Networks, Data Center Network, Green Computing
+My research interests include Computer Networks (especially Time-sensitive Network) and Internet of Things. I focus on the application of AI in these two areas, especially in data center network architecture and edge intelligence. I am also interested in the energy consumption in computing. <br>
+In addition to academic issues, I also pay attention to the practical application of various technologies in the real world. I am actively exploring the combination of academic and engineering (they should not be confused).
 </div>
 
 Honors & Awards
 ------
-- Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China). (Jun. 2024)
-- Outstanding Graduate of Shandong Province, China. (Jan. 2024)
-- Xiaomi Grand Scholarship. **(Only 4 undergraduate students in UPC, 20000RMB)** (Nov. 2023)
-- Qingdao Outstanding University Student (Top 1000). (May. 2023)
-- Second Prize, China Collegiate Computing Contest-Network Technology Challenge. (Sep. 2023)
-- Third Prize, The 12th "China Software Cup" College Student Software Design Competition. (Aug. 2023)
-- First Prize in Shandong Province, China Undergraduate Mathematical Contest in Modeling (CUMCM). (Nov. 2022)
-- First Prize in the Eastern Division, CCF Big Data & Computing Intelligence Contest. (Nov. 2022)
+- 06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).
+- 01/2024, Outstanding Graduate of Shandong Province, China.
+- 11/2023, Xiaomi Grand Scholarship. **(Only 4 undergraduate students in UPC, 20000RMB)**
+- 05/2023, Qingdao Outstanding University Student (Top 1000). 
+- 09/2023, Second Prize, China Collegiate Computing Contest-Network Technology Challenge.
+- 08/2023, Third Prize, The 12th "China Software Cup" College Student Software Design Competition. 
+- 11/2022, First Prize in Shandong Province, China Undergraduate Mathematical Contest in Modeling (CUMCM).
+- 11/2022, First Prize in the Eastern Division, CCF Big Data & Computing Intelligence Contest.
 
 Teaching
 ------
-- Teaching Assistant, CS111 - C Program Design Basis (With Prof. [Wenjin Wang](https://www.sustech.edu.cn/zh/faculties/wangwenjin.html), For Undergraduate Students, SUSTech, Fall, 2024)
+- 2024 Fall, Teaching Assistant, CS111 - C Program Design Basis (With Prof. [Wenjin Wang](https://www.sustech.edu.cn/zh/faculties/wangwenjin.html), For Undergraduate Students, SUSTech)
 
 News
 ------
-- One paper was accepted by [IEEE SustainCom 2024](). (Sep. 2024)
+- 10/2024, Our paper published on the IEEE SustainCom 2024 won the **Best Paper Award**. 
+- 09/2024, One paper was accepted by IEEE SustainCom 2024.
 <!-- - <div style="display: flex; justify-content: space-between;">
     <span>One paper was accepted by IEEE SustainCom 2024. </span>
     <span>Sep. 2024</span>
