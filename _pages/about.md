@@ -37,7 +37,9 @@ In addition to academic issues, I also pay attention to the practical applicatio
 Honors & Awards
 ------
 <ul>
-<li>06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).</li>
+<li><p>06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).
+</p>
+</li>
 </ul>
 
 - 06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).
@@ -55,8 +57,8 @@ Teaching
 
 News
 ------
-- 10/2024, we won the Best Paper Award in IEEE SustainCom 2024.[[link]](http://junyuxue.github.io/files/Sustaincom24BestPaperAward.pdf)
-- 09/2024, One paper was accepted by IEEE SustainCom 2024.
+- 10/2024, we won the Best Paper Award in IEEE SustainCom 2024.[[link](http://junyuxue.github.io/files/Sustaincom24BestPaperAward.pdf)]
+- 09/2024, one paper was accepted by IEEE SustainCom 2024.
 <!-- - <div style="display: flex; justify-content: space-between;">
     <span>One paper was accepted by IEEE SustainCom 2024. </span>
     <span>Sep. 2024</span>
