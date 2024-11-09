@@ -18,7 +18,7 @@ body {
 Short Bio
 ------
 <div class="justified">
-I am an En.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Pengcheng Laboratory), under the supervision of <a href="https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1">Prof. Yi Wang</a>. Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by <a href="https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm">Prof. Tao Song</a>. I was born and raised in Linyi, Shandong Province, China.
+I am an Eng.D. candidate at the Department of Computer Science and Engineering, Southern University of Science and Technology (Joint training with Pengcheng Laboratory), under the supervision of <a href="https://faculty.sustech.edu.cn/?tagid=wangy37&iscss=1&snapid=1&orderby=date&go=1">Prof. Yi Wang</a>. Before that, I received my B.E. in the Department of Computer Science and Technology from China University of Petroleum (East China), advised by <a href="https://computer.upc.edu.cn/2017/0313/c6289a103931/page.htm">Prof. Tao Song</a>. I was born and raised in Linyi, Shandong Province, China.
 </div>
 <br>
 <!-- Welcome to my [Knowledge Database](https://www.yuque.com/junry). I will share some life feelings, knowledge path there. -->
@@ -36,15 +36,9 @@ In addition to academic issues, I also pay attention to the practical applicatio
 
 Honors & Awards
 ------
-<ul>
-<li><p>06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).
-</p>
-</li>
-</ul>
-
 - 06/2024, Bachelor of Engineering with Honors (Top 5%), China University of Petroleum (East China).
 - 01/2024, Outstanding Graduate of Shandong Province, China.
-- 11/2023, Xiaomi Grand Scholarship. **(Only 4 undergraduate students in UPC, 20000RMB)**
+- 11/2023, Xiaomi Grand Scholarship. **(Only 4 undergraduate students in UPC, 20000RMB)**.
 - 05/2023, Qingdao Outstanding University Student (Top 1000). 
 - 09/2023, Second Prize, China Collegiate Computing Contest-Network Technology Challenge.
 - 08/2023, Third Prize, The 12th "China Software Cup" College Student Software Design Competition. 
@@ -57,7 +51,7 @@ Teaching
 
 News
 ------
-- 10/2024, we won the Best Paper Award in IEEE SustainCom 2024.[[link](http://junyuxue.github.io/files/Sustaincom24BestPaperAward.pdf)]
+- 10/2024, we won the **Best Paper Award** in IEEE SustainCom 2024.[[link](http://junyuxue.github.io/files/Sustaincom24BestPaperAward.pdf)]
 - 09/2024, one paper was accepted by IEEE SustainCom 2024.
 <!-- - <div style="display: flex; justify-content: space-between;">
     <span>One paper was accepted by IEEE SustainCom 2024. </span>
